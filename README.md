@@ -1,7 +1,7 @@
 ### Olá 👋
 
 - Sou Analista de dados na SulAmérica Seguros e Previdência
-- Interesses: Data analysis, Data Storytelling, Data Analytics, Ux Research, Machile learning, Estatística
+- Interesses: Data Analysis, Data Storytelling, Data Analytics, Ux Research, Machile learning, Estatística
 - Brasil / RJ
 <!--
 **SilvioCSOliveira/SilvioCSOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
